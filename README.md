@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<p align="center">🔭 I’m currently researching generative AI for remote sensing systems with UD and NASA 🌎 </p>
+<p align="center">🔭 I’m currently researching generative AI models for remote sensing systems with UD and NASA 🌎 </p>
 <br/>
 </div>
 
