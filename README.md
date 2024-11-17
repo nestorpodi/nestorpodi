@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-<h2> Hi! I'm Nestor Porras Diaz <nestorpodi/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h1> Hi! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I'm Nestor Porras Diaz <tt> [NestorPoDi] </tt>  </h1>
 </div>
 
 <!--
