@@ -4,7 +4,10 @@
 <br/>
 </div>
 
-- 🔭 I’m currently researching generative AI for remote sensing systems with UD and NASA. 🌎
+<div align="center">
+<p align="center">🔭 I’m currently researching generative AI for remote sensing systems with UD and NASA. 🌎 </p>
+<br/>
+</div>
 
 ## My skills include
 
